@@ -29,3 +29,16 @@
 p img{
     width: 100%;
 }
+.aaa{
+  width: auto;
+}
+
+.toro {
+  width: 50%;
+  height: 120 px;
+  object-fit: cover;
+}
+.yuus{
+  width: 70%;
+}
+
